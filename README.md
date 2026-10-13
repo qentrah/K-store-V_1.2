@@ -1,3 +1,44 @@
+# K Store
+
+Expo and Firebase application source with navigation, screens, and shared components.
+
+[Source](https://github.com/qentrah/K-store-V_1.2) · [Issues](https://github.com/qentrah/K-store-V_1.2/issues) · [Project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
+
+## Technology
+
+Expo, React Native, React.
+
+## Get started
+
+```sh
+git clone https://github.com/qentrah/K-store-V_1.2.git
+cd K-store-V_1.2
+```
+
+Requires Node.js and npm.
+
+```sh
+npm ci
+npm run start
+```
+
+## Available commands
+
+| Command | Purpose |
+| --- | --- |
+| `npm run start` | Start the configured application |
+| `npm run android` | Run the Android workflow |
+| `npm run ios` | Run the iOS workflow |
+| `npm run web` | Run the web workflow |
+
+## Project structure
+
+- [`components`](./components)
+- [`screens`](./screens)
+
+<details>
+<summary>Existing setup notes and credits</summary>
+
 # expo-firebase-starter 🔥
 
 ![Supports Expo iOS](https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff)
@@ -128,3 +169,5 @@ Both of these libraries can satisfy different project requirements. To learn abo
 ---
 
 <strong>Built with 💜 by [@amanhimself](https://twitter.com/amanhimself)</strong>
+
+</details>
